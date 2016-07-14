@@ -1,0 +1,73 @@
+[
+		{	
+			class : "muller-narrow",
+			heading: "Muller Narrow",
+			fontTypes : [
+						{
+						typeName : "Regular",
+						typeClass: "muller-narrow"
+						},
+						{
+						typeName : "Italic",
+						typeClass : "muller-narrow-italic "
+						},
+						{
+						typeName : "Bold",
+						typeClass : "muller-narrow-bold"
+						},
+						{
+						typeName : "Bold Italic",
+						typeClass : "muller-narrow-bold-italic"
+						}
+					]
+		},
+		{
+				class : "phenomenaregular",
+				heading: "Phenomena",
+				fontTypes : [
+						{
+						typeName : "Regular",
+						typeClass: "phenomenaregular"
+						},
+						{
+						typeName : "Thin",
+						typeClass : "phenomenathin"
+						},
+						{
+						typeName : "Extra Light",
+						typeClass : "phenomenaextralight"
+						},
+						{
+						typeName : "Light",
+						typeClass : "phenomenalight"
+						},
+						
+						{
+						typeName : "Bold",
+						typeClass : "phenomenabold"
+						},
+						{
+						typeName : "Extra Bold",
+						typeClass : "phenomenaextrabold"
+						},
+						{
+						typeName : "Black",
+						typeClass : "phenomenablack"
+						}
+					]			
+		},
+		{
+				class : "choplinmedium-demo",
+				heading: "Choplin",
+			fontTypes : [
+						{
+						typeName : "Regular",
+						typeClass: "choplinmedium-demo"
+						},
+						{
+						typeName : "Extra Light",
+						typeClass : "choplinextralight-demo"
+						}
+					]			
+		}
+		]

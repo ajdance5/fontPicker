@@ -1,0 +1,28 @@
+
+
+body {margin:0;}
+.font-box div {width:33%;display:block;float:left;padding:20px;box-sizing: border-box;margin:0;font-size:1.2em;}
+.font-box div:nth-of-type(odd) {background-color:#BCC9FA;color:#494E61;}
+.font-box div:nth-of-type(even) {color:#BCC9FA;background-color:#494E61;}
+.font-box div:nth-of-type(even) a {color:#ffffff;}
+p {font-size:2em;}
+.font-box div p:nth-of-type(2
+    ) {text-transform: uppercase;}
+a {margin: 5px;text-decoration: underline;color:#07008b;}
+a:hover {cursor: pointer}
+.muller-narrow  {font-family: muller_narrowlight}
+.muller-narrow-italic  {font-family: muller_narrowlight_italic}
+.muller-narrow-bold  {font-family: muller_narrowextrabold}
+.muller-narrow-bold-italic  {font-family: muller_narrowextrabold_italic}
+.phenomenaregular {font-family: phenomenaregular; }
+.phenomenabold {font-family: phenomenabold; }
+.phenomenaextrabold {font-family: phenomenaextrabold; }
+
+.phenomenalight {font-family: phenomenalight; }
+.phenomenathin {font-family: phenomenathin; }
+.phenomenablack {font-family: phenomenablack; }
+.phenomenaextralight {font-family: phenomenaextralight; }
+
+
+.choplinextralight-demo {font-family: choplinextralight-demo; }
+.choplinmedium-demo {font-family: choplinmedium-demo; }
